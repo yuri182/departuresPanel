@@ -178,6 +178,7 @@ body{
 .trainNum span{
     display: flex;
     transform: scaleX(0.6);
+    flex-wrap: nowrap;
 }
 .trainTime{
     display: flex;
