@@ -45,7 +45,7 @@ body{
     margin: 0px 40px;
     background-color: #8f8;
     color: #fff;
-    align-items: center;
+    
 }
 #destJp{
     display: flex;
@@ -54,6 +54,8 @@ body{
     margin-top: 5px;
     background-color: #0f0;
     font-size: 32px;
+    align-items: center;
+    justify-content: center;
 }
 #destEn{
     display: flex;
@@ -61,6 +63,8 @@ body{
     height: 30px;
     background-color: #080;
     font-size: 25.2px;
+    align-items: center;
+    justify-content: center;
 }
 #labelPlat{
     display:flex;
