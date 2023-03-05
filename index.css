@@ -175,6 +175,10 @@ body{
     margin-left: 10px;
     /**background-color: #00f;**/
 }
+.trainNum span{
+    display: flex;
+    transform: scaleX(0.75);
+}
 .trainTime{
     display: flex;
     justify-content: flex-end;
