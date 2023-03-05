@@ -177,6 +177,7 @@ body{
     width: 100px;
     height: 100%;
     margin-left: 10px;
+    transform: scaleX(0.75);
     /**background-color: #00f;**/
 }
 .trainTime{
