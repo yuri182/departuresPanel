@@ -168,8 +168,38 @@ body{
 }
 .trainNum{
     display: flex;
+    justify-content: flex-end;
     width: 100px;
     height: 100%;
     margin-left: 10px;
     background-color: #00f;
+}
+.trainTime{
+    display: flex;
+    justify-content: flex-end;
+    width: 190px;
+    height: 100%;
+    margin: 0px 10px;
+    background-color: #800;
+    font-size: 64px;
+    font-family: "ibmPlex-Regular", sans-serif;
+}
+.trainDest{
+    display: flex;
+    width: 224px;
+    height: 100%;
+    margin: 0px 10px;
+    background-color: #080;
+    font-size: 56px;
+    font-family: "ibmPlex-Medium", sans-serif;
+}
+.trainPlat{
+    display: flex;
+    justify-content: flex-end;
+    width: 86px;
+    height: 100%;
+    background-color: #008;
+    font-size: 64px;
+    font-family: "ibmPlex-Regular", sans-serif;
+    color: #ffc2a2;
 }
