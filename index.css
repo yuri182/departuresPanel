@@ -28,7 +28,7 @@ body{
     width: 600px;
     height: 100%;
     margin: 0px 50px;
-    background-color: #f00;
+    background-color: #f88;
     color: #fff;
 }
 #titleJp{
@@ -43,32 +43,55 @@ body{
     width: 120px;
     height: 100%;
     margin: 0px 40px;
-    background-color: #0f0;
+    background-color: #8f8;
     color: #fff;
+    align-items: center;
 }
 #destJp{
-
+    display: flex;
+    width: 100%;
+    height: 35px;
+    margin-top: 5px;
+    background-color: #0f0;
+    font-size: 32px;
 }
 #destEn{
-
+    display: flex;
+    width: 100%;
+    height: 30px;
+    background-color: #080;
+    font-size: 25.2px;
 }
 #labelPlat{
     display:flex;
     flex-direction: column;
     width: 100px;
     height: 100%;
-    background-color: #00f;
+    background-color: #88f;
     color: #ffe07e;
+    align-items: center;
 }
 #platJp{
-
+    display: flex;
+    width: 100%;
+    height: 35px;
+    margin-top: 5px;
+    background-color: #00f;
+    font-size: 32px;
 }
 #platEn{
-
+    display: flex;
+    width: 100%;
+    height: 30px;
+    background-color: #008;
+    font-size: 25.2px;
 }
 
 #deptDisplay{
     background-color: #000;
-    height: 250px;
+    height: 200px;
     width: 100%;
+}
+.displayArray{
+    background-color: #101010;
 }
