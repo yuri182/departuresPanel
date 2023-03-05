@@ -21,12 +21,13 @@ body{
     width: 100%;
     align-items: center;
     background-color: #101033;
+    margin-bottom: 20px;
 }
 #labelTitle{
     display: flex;
     width: 600px;
     height: 100%;
-    padding: 0px 50px;
+    margin: 0px 50px;
     background-color: #f00;
     color: #fff;
 }
@@ -41,7 +42,7 @@ body{
     flex-direction: column;
     width: 120px;
     height: 100%;
-    padding: 0px 40px;
+    margin: 0px 40px;
     background-color: #0f0;
     color: #fff;
 }
