@@ -15,10 +15,6 @@
     font-family: "firaSans";
     src: url(FiraSansCondensed-Medium.ttf);
 }
-*{
-    margin: 0;
-    box-sizing: border-box;
-}
 body{
     background-color: #fff;
 }
@@ -174,10 +170,10 @@ body{
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    width: 100px;
+    width: 125px;
     height: 100%;
     margin-left: 10px;
-    transform: scaleX(0.75);
+    transform: scaleX(0.8);
     /**background-color: #00f;**/
 }
 .trainTime{
