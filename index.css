@@ -30,12 +30,20 @@ body{
     margin: 0px 50px;
     background-color: #f88;
     color: #fff;
+    align-items: center;
 }
 #titleJp{
-
+    height: 100%;
+    background-color: #f00;
+    font-size: 42px;
+    align-items: center;
+    margin-right: 15px;
 }
 #titleEn{
-
+    height: 100%;
+    background-color: #800;
+    font-size: 25.2px;
+    align-items: center;
 }
 #labelDest{
     display: flex;
@@ -73,7 +81,6 @@ body{
     height: 100%;
     background-color: #88f;
     color: #ffe07e;
-    align-items: center;
 }
 #platJp{
     display: flex;
@@ -82,6 +89,8 @@ body{
     margin-top: 5px;
     background-color: #00f;
     font-size: 32px;
+    align-items: center;
+    justify-content: center;
 }
 #platEn{
     display: flex;
@@ -89,6 +98,8 @@ body{
     height: 30px;
     background-color: #008;
     font-size: 25.2px;
+    align-items: center;
+    justify-content: center;
 }
 
 #deptDisplay{
