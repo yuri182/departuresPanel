@@ -8,20 +8,61 @@ body{
 #case{
     display: flex;
     flex-direction: column;
-    background-color: #222222;
-    height: 300px;
-    width: 700px;
-    padding: 0px 30px;
+    background-color: #111144;
+    height: 1100px;
+    width: 350px;
+    padding: 30px 50px;
+    margin: 75px 100px;
 }
 
 #deptLabel{
-    height: 50px;
+    display: flex;
+    height: 70px;
     width: 100%;
+    align-items: center;
+}
+#labelTitle{
+    display: flex;
+    width: 600px;
+    height: 100%;
+    padding: 0px 50px;
+    background-color: #f00;
     color: #fff;
 }
-#panelTitleJp{
-    font-size: 30px;
+#titleJp{
+
 }
+#titleEn{
+
+}
+#labelDest{
+    display: flex;
+    flex-direction: column;
+    width: 120px;
+    height: 100%;
+    padding: 0px 40px;
+    background-color: #0f0;
+}
+#destJp{
+
+}
+#destEn{
+
+}
+#labelPlat{
+    display:flex;
+    flex-direction: column;
+    width: 100px;
+    height: 100%;
+    background-color: #00f;
+}
+#platJp{
+
+}
+#platEn{
+
+}
+
 #deptDisplay{
     background-color: #000;
     height: 250px;
