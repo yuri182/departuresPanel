@@ -136,6 +136,7 @@ body{
     height: 200px;
 }
 .displayTrain{
+    display: flex;
     background-color: #101010;
     width: 100%;
     height: 60px;
@@ -146,7 +147,6 @@ body{
 }
 .trainInfo{
     display: flex;
-    flex-direction: row;
     width: 450px;
     height: 100%;
     margin-right: 10px;
