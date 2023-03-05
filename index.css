@@ -170,15 +170,11 @@ body{
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    width: 100px;
+    width: calc(100px / 0.75);
     height: 100%;
     margin-left: 10px;
+    transform: scaleX(0.75);
     /**background-color: #00f;**/
-}
-.trainNum span{
-    display: flex;
-    transform: scaleX(0.6);
-    flex-wrap: nowrap;
 }
 .trainTime{
     display: flex;
