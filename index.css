@@ -42,10 +42,12 @@ body{
 }
 #titleEn{
     display: flex;
-    height: 26px;
+    height: 25.2px;
     background-color: #800;
     font-size: 25.2px;
+    align-items: center;
     margin-bottom: 14px;
+    margin-top: 30.8px;
 }
 #labelDest{
     display: flex;
