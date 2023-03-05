@@ -90,6 +90,7 @@ body{
     align-items: center;
     justify-content: center;
     letter-spacing: 15px;
+    padding-left: 7.5px;
 }
 #destEn{
     font-family: "firaSans", sans-serif;
