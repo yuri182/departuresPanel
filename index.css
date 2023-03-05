@@ -146,6 +146,7 @@ body{
 }
 .trainInfo{
     display: flex;
+    flex-direction: row;
     width: 450px;
     height: 100%;
     margin-right: 10px;
