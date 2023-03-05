@@ -29,23 +29,23 @@ body{
     margin: 0px 50px;
     background-color: #f88;
     color: #fff;
-    align-items: center;
+
 }
 #titleJp{
     display: flex;
-    height: 26px;
+    height: 100%;
     background-color: #f00;
     font-size: 42px;
     align-items: center;
     margin-right: 15px;
-    margin-bottom: 14px;
+
 }
 #titleEn{
     display: flex;
-    height: 100%;
+    height: 26px;
     background-color: #800;
     font-size: 25.2px;
-    align-items: center;
+    margin-bottom: 14px;
 }
 #labelDest{
     display: flex;
