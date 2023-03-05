@@ -10,11 +10,14 @@ body{
     background-color: #222222;
     height: 300px;
     width: 700px;
+    padding: 0px 30px;
 }
 #deptLabel{
     height: 50px;
+    width: 100%;
 }
 #deptDisplay{
     background-color: #000;
     height: 250px;
+    width: 100%;
 }
