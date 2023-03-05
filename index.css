@@ -165,7 +165,6 @@ body{
 }
 .trainName{
     display: flex;
-    justify-content: center;
     align-items: center;
     width: 228px;
     height: 100%;
@@ -190,6 +189,7 @@ body{
     background-color: #800;
     font-size: 64px;
     font-family: "ibmPlex-Regular", sans-serif;
+    color: #fff;
 }
 .trainDest{
     display: flex;
@@ -200,6 +200,7 @@ body{
     background-color: #080;
     font-size: 56px;
     font-family: "ibmPlex-Medium", sans-serif;
+    color: #fff;
 }
 .trainPlat{
     display: flex;
