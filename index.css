@@ -151,6 +151,8 @@ body{
     margin-right: 10px;
     background-color: #f80;/** 背景色はcsvで指定できるようにする**/
     color: #fff;
+    font-size: 56px;
+    font-family: "ibmPlex-Medium", sans-serif;
 }
 .trainType{
     display: flex;
